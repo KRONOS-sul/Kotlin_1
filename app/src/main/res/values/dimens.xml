@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_top_margin">12dp</dimen>
+    <dimen name="shape_padding">8dp</dimen>
+    <dimen name="shape_width">2dp</dimen>
+    <dimen name="et_margin">180dp</dimen>
+</resources>
